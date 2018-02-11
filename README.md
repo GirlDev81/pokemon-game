@@ -1,8 +1,7 @@
-#Pokemon Game 
+#
+**Pokemon Game** 
 
-**Steps**
----------
-
+ 
 **Download or Pull This Repo**
 	Top of this page you can see where it says clone or download
 
